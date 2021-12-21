@@ -18,7 +18,7 @@
 	
 <c:import url="/WEB-INF/views/include/top_menu.jsp"/>
 
-<!-- 게시판 미리보기 부분 -->
+<!-- 게시판 미리보기 부분 --> <!-- 2021.12.21 1차 배포 작성자 : 문지현 -->
 <div class="container" style="margin-top:100px">
 	<div class="row">
 		<div class="col-lg-6" style="margin-top:20px">
